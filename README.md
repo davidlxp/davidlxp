@@ -22,7 +22,14 @@
   </a>
 </p> -->
   
- 
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlxp&show_icons=true&layout=compact&&theme=nord)](https://github.com/davidlxp)
+
+### Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidlxp&theme=nord)](https://github.com/davidlxp)
+  
 ### Graph
 
 [![Xinpeng's github activity graph](https://activity-graph.herokuapp.com/graph?username=davidlxp&theme=nord)](https://activity-graph.herokuapp.com/graph?username=davidlxp&theme=nord)
