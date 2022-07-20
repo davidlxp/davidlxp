@@ -1,5 +1,8 @@
 ## Hi there 👋, I'm <a href="https://www.linkedin.com/in/xinpeng-liu/">Xinpeng Liu</a>.
 
+I'm software engineer with a previous background in data analytics and mathematics. I have broad interests in technology. I enjoy web development, mobile app development, building video game, machine learning and AI, and VR/AR. I'm a good communicator who love working in a team.
+
+
 - 🔭 I’m currently working on mixed reality mobile app
 - 🌱 I’m currently learning algorithms
 - 👯 I’m looking to collaborate on web or mobile development projects
