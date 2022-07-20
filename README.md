@@ -19,3 +19,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=davidlxp&title_color=333&text_color=777&count_private=true" alt="Xinpeng's Stats" >
   </a>
 </p>
+  
+ 
+### Graph
+
+[![Xinpeng's github activity graph](https://activity-graph.herokuapp.com/graph?username=davidlxp&theme=nord)](https://activity-graph.herokuapp.com/graph?username=davidlxp&theme=nord)
