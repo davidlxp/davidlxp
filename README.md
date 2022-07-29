@@ -8,7 +8,7 @@ I'm software engineer with a previous background in data analytics and mathemati
 - 👯 I’m looking to collaborate on web or mobile development projects
 - 🤔 I’m looking for help with operating systems
 - 💬 Ask me about C++ and Python
-- ⚡ Fun fact: I love weight-lifting!
+- ⚡ Fun fact: I love power-lifting!
 - 📫 How to reach me: https://www.linkedin.com/in/xinpeng-liu/
 
 ## Statistics
