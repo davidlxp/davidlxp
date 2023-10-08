@@ -3,11 +3,11 @@
 I'm software engineer with a previous background in data analytics and mathematics. I have broad interests in technology. I enjoy web development, mobile app development, building video game, machine learning and AI, and VR/AR. I'm a good communicator who love working in a team.
 
 
-- 🔭 I’m currently working on mixed reality mobile app
-- 🌱 I’m currently learning algorithms
+- 🔭 I’m currently working on algorithms
+- 🌱 I’m currently learning distributed systems
 - 👯 I’m looking to collaborate on web or mobile development projects
 - 🤔 I’m looking for help with operating systems
-- 💬 Ask me about C++ and Python
+- 💬 Ask me about Java and C++
 - ⚡ Fun fact: I love power-lifting!
 - 📫 How to reach me: https://www.linkedin.com/in/xinpeng-liu/
 
