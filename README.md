@@ -33,10 +33,6 @@ I'm software engineer with a previous background in data analytics and mathemati
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidlxp&theme=nord)](https://github.com/davidlxp)
   
-### Graph
-
-[![Xinpeng's github activity graph](https://activity-graph.herokuapp.com/graph?username=davidlxp&theme=nord)](https://activity-graph.herokuapp.com/graph?username=davidlxp&theme=nord)
-  
 ## Technical Stack:
 
 <div align="center">
